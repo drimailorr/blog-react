@@ -11,7 +11,7 @@ class PostList extends React.Component {
     render() {
 
         const postsList = this.props.posts.map((post) => {
-            return <p>{post.title}</p>
+            return <p>TITLE: {post.title}</p>
         })
 
         return (
