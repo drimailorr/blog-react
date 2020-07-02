@@ -1,3 +1,7 @@
+http://jenkins.sb.internal/buildStatus/icon?job=SBRD%2Fcertificate-authority%2Fmaster
+
+<img src="http://jenkins.sb.internal/buildStatus/icon?job=SBRD%2Fcertificate-authority%2Fmaster" alt="Build Status" data-canonical-src="http://jenkins.sb.internal/buildStatus/icon?job=SBRD%2Fcertificate-authority%2Fmaster" style="max-width:100%;">
+
 test feature1
 test release1.0.0
 test release1.0.1
